@@ -1,6 +1,5 @@
 # IMDB_Movie-Data-Analysis
 
-# IMDB Movie Data Analysis
 
 An exploratory data analysis (EDA) project on the IMDb Movie Data dataset, using pandas, seaborn, and matplotlib to clean the data and uncover trends in ratings, revenue, votes, and runtime.
 
